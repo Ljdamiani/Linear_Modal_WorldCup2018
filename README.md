@@ -10,6 +10,4 @@ Kevin Gomes
 
 Leonardo Damiani
 
-Introdução:
-
-O arquivo Rmd é o principal deste repositório, em adcional estão as figuras em png utilizadas e o banco de dados.
+**Introdução:** O arquivo Rmd é o principal deste repositório, em adcional estão as figuras em png utilizadas e o banco de dados.
