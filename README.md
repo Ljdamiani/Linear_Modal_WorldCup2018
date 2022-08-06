@@ -1,4 +1,4 @@
-# TRABALHO MODELOS LINEARES
+# Modelo Regressão Linear -- Uma Aplicação nos jogos da Copa do Mundo de 2018
 
 Repositório para o arquivo Rmd gerado para apresentação da atividade, gerada pelos alunos:
 
